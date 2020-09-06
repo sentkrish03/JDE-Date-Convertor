@@ -1,2 +1,2 @@
-# JDE_JulianDateConvertor
+# JDE Julian Date Convertor
 
